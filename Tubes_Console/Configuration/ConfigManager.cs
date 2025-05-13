@@ -6,7 +6,7 @@ using System.Text.Json;
 using System.Threading.Tasks;
 using System.IO;
 
-namespace Tubes_Tahap1_KPL_kelompok3.Configuration
+namespace Tubes_Console.Configuration
 {
     public class ConfigManager
     {
