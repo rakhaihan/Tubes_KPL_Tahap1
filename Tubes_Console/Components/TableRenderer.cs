@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Tubes_Tahap1_KPL_kelompok3.Components
+namespace Tubes_Console.Components
 {
     public static class TableRenderer
     {

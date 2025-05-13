@@ -1,9 +1,17 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Education\\University\\telkom\\mulai kuliah\\SMT 4\\Konstruksi Perangkat Lunak\\A1 TUbes\\fix\\Tubes_KPL_Tahap1\\Tubes_Console\\",
+  "WorkspaceRootPath": "F:\\KPL\\baru lagi karna sln kahapus\\Tubes_KPL_Tahap1\\Tubes_Console\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{29591B60-7BB1-4625-A6DF-5AA3B02C8201}|Tubes_Console.csproj|d:\\education\\university\\telkom\\mulai kuliah\\smt 4\\konstruksi perangkat lunak\\a1 tubes\\fix\\tubes_kpl_tahap1\\tubes_console\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{29591B60-7BB1-4625-A6DF-5AA3B02C8201}|Tubes_Console.csproj|f:\\kpl\\baru lagi karna sln kahapus\\tubes_kpl_tahap1\\tubes_console\\components\\formbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29591B60-7BB1-4625-A6DF-5AA3B02C8201}|Tubes_Console.csproj|solutionrelative:components\\formbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29591B60-7BB1-4625-A6DF-5AA3B02C8201}|Tubes_Console.csproj|f:\\kpl\\baru lagi karna sln kahapus\\tubes_kpl_tahap1\\tubes_console\\components\\tablerenderer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29591B60-7BB1-4625-A6DF-5AA3B02C8201}|Tubes_Console.csproj|solutionrelative:components\\tablerenderer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29591B60-7BB1-4625-A6DF-5AA3B02C8201}|Tubes_Console.csproj|f:\\kpl\\baru lagi karna sln kahapus\\tubes_kpl_tahap1\\tubes_console\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{29591B60-7BB1-4625-A6DF-5AA3B02C8201}|Tubes_Console.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -14,15 +22,45 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TableRenderer.cs",
+              "DocumentMoniker": "F:\\KPL\\baru lagi karna sln kahapus\\Tubes_KPL_Tahap1\\Tubes_Console\\Components\\TableRenderer.cs",
+              "RelativeDocumentMoniker": "Components\\TableRenderer.cs",
+              "ToolTip": "F:\\KPL\\baru lagi karna sln kahapus\\Tubes_KPL_Tahap1\\Tubes_Console\\Components\\TableRenderer.cs",
+              "RelativeToolTip": "Components\\TableRenderer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T07:46:25.059Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "FormBuilder.cs",
+              "DocumentMoniker": "F:\\KPL\\baru lagi karna sln kahapus\\Tubes_KPL_Tahap1\\Tubes_Console\\Components\\FormBuilder.cs",
+              "RelativeDocumentMoniker": "Components\\FormBuilder.cs",
+              "ToolTip": "F:\\KPL\\baru lagi karna sln kahapus\\Tubes_KPL_Tahap1\\Tubes_Console\\Components\\FormBuilder.cs",
+              "RelativeToolTip": "Components\\FormBuilder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T07:45:58.18Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Education\\University\\telkom\\mulai kuliah\\SMT 4\\Konstruksi Perangkat Lunak\\A1 TUbes\\fix\\Tubes_KPL_Tahap1\\Tubes_Console\\Program.cs",
+              "DocumentMoniker": "F:\\KPL\\baru lagi karna sln kahapus\\Tubes_KPL_Tahap1\\Tubes_Console\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "D:\\Education\\University\\telkom\\mulai kuliah\\SMT 4\\Konstruksi Perangkat Lunak\\A1 TUbes\\fix\\Tubes_KPL_Tahap1\\Tubes_Console\\Program.cs",
+              "ToolTip": "F:\\KPL\\baru lagi karna sln kahapus\\Tubes_KPL_Tahap1\\Tubes_Console\\Program.cs",
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
