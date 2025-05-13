@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Tubes_Console")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9ab8b367e961a138558104ad50975cafd3b19cf1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+aced909cf718695566f6c2add620c61f4c8380ee")]
 [assembly: System.Reflection.AssemblyProductAttribute("Tubes_Console")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Tubes_Console")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
