@@ -1,8 +1,8 @@
 using System.Collections.Generic;
 using System.Linq;
-using API.Models;
+using Tubes_API.Models;
 
-namespace API.Services
+namespace Tubes_API.Services
 {
     public class SiswaService
     {

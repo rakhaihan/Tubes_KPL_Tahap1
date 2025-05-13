@@ -1,5 +1,5 @@
 ﻿using System;
-namespace API.Models
+namespace Tubes_API.Models
 {
     public class PoinPelanggaran
     {

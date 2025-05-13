@@ -1,6 +1,5 @@
 ﻿using System.Collections.Generic;
-
-namespace API.Models
+namespace Tubes_API.Models
 {
     public class Siswa
     {

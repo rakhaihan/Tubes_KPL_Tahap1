@@ -1,9 +1,9 @@
 using Microsoft.AspNetCore.Mvc;
 using System.Collections.Generic;
-using API.Models;
-using API.Services;
+using Tubes_API.Models;
+using Tubes_API.Services;
 
-namespace ProjectNamespace.Controllers
+namespace Tubes_API.Controllers
 {
     [ApiController]
     [Route("api/[controller]")]

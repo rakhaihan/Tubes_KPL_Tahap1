@@ -1,8 +1,8 @@
 using Microsoft.AspNetCore.Mvc;
-using API.Models;
-using API.Services;
+using Tubes_API.Models;
+using Tubes_API.Services;
 
-namespace API.Controllers
+namespace Tubes_API.Controllers
 {
     [ApiController]
     [Route("api/[controller]")]

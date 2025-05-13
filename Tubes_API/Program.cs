@@ -21,5 +21,5 @@ if (app.Environment.IsDevelopment())
 }
 
 app.UseAuthorization();
-app.MapControllers(); // Ini penting agar controller bisa berjalan
+app.MapControllers();
 app.Run();
