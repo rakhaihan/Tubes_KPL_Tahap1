@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Tubes_Tahap1_KPL_kelompok3.Configuration
+namespace Tubes_Console.Configuration
 {
     public class AppConfig
     {
