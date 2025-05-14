@@ -40,7 +40,7 @@ namespace Tubes_Console
                     Console.WriteLine("6. Keluar");
                     Console.Write("Pilih menu (1-6): ");
 
-                    string pilihan = Console.ReadLine();
+                    string pilihan = Console.ReadLine().Trim();
 
                     switch (pilihan)
                     {
@@ -146,7 +146,7 @@ namespace Tubes_Console
                 }
 
                 Console.Write("Pilih jenis pelanggaran: ");
-                string jenis = Console.ReadLine();
+                string jenis = Console.ReadLine().Trim();
 
                 int poin = TabelPelanggaran.GetPoin(jenis);
                 var pelanggaran = new Pelanggaran
