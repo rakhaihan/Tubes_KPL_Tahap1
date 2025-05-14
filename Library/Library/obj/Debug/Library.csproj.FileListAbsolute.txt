@@ -26,3 +26,21 @@ D:\Tugas smstr 4\Library\Tubes_KPL_Tahap1-main\Tubes_KPL_Tahap1-main\Library\Lib
 D:\Tugas smstr 4\Library\Tubes_KPL_Tahap1-main\Tubes_KPL_Tahap1-main\Library\Library\obj\Debug\Library.csproj.Up2Date
 D:\Tugas smstr 4\Library\Tubes_KPL_Tahap1-main\Tubes_KPL_Tahap1-main\Library\Library\obj\Debug\Library.dll
 D:\Tugas smstr 4\Library\Tubes_KPL_Tahap1-main\Tubes_KPL_Tahap1-main\Library\Library\obj\Debug\Library.pdb
+C:\Users\asus8\Tubes_KPL_Tahap1\Library\Library\bin\Debug\Library.dll.config
+C:\Users\asus8\Tubes_KPL_Tahap1\Library\Library\bin\Debug\Library.dll
+C:\Users\asus8\Tubes_KPL_Tahap1\Library\Library\bin\Debug\Library.pdb
+C:\Users\asus8\Tubes_KPL_Tahap1\Library\Library\bin\Debug\System.Buffers.dll
+C:\Users\asus8\Tubes_KPL_Tahap1\Library\Library\bin\Debug\System.Memory.dll
+C:\Users\asus8\Tubes_KPL_Tahap1\Library\Library\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\asus8\Tubes_KPL_Tahap1\Library\Library\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\asus8\Tubes_KPL_Tahap1\Library\Library\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\asus8\Tubes_KPL_Tahap1\Library\Library\bin\Debug\System.ValueTuple.dll
+C:\Users\asus8\Tubes_KPL_Tahap1\Library\Library\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\asus8\Tubes_KPL_Tahap1\Library\Library\bin\Debug\System.IO.Pipelines.xml
+C:\Users\asus8\Tubes_KPL_Tahap1\Library\Library\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\asus8\Tubes_KPL_Tahap1\Library\Library\bin\Debug\System.Text.Json.xml
+C:\Users\asus8\Tubes_KPL_Tahap1\Library\Library\obj\Debug\Library.csproj.AssemblyReference.cache
+C:\Users\asus8\Tubes_KPL_Tahap1\Library\Library\obj\Debug\Library.csproj.CoreCompileInputs.cache
+C:\Users\asus8\Tubes_KPL_Tahap1\Library\Library\obj\Debug\Library.csproj.Up2Date
+C:\Users\asus8\Tubes_KPL_Tahap1\Library\Library\obj\Debug\Library.dll
+C:\Users\asus8\Tubes_KPL_Tahap1\Library\Library\obj\Debug\Library.pdb
