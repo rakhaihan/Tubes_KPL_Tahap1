@@ -1,6 +1,7 @@
 ﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
-using Tubes_Console.table_driven;
 using System;
+using System.Diagnostics;
+using Tubes_Console.table_driven;
 
 namespace Tubes_Console.Tests
 {
@@ -10,22 +11,51 @@ namespace Tubes_Console.Tests
         [TestMethod]
         public void GetPoin_ValidNama_ReturnsCorrectPoin()
         {
-            int poin = TabelPelanggaran.GetPoin("Merokok");
-            Assert.AreEqual(20, poin);
+            // Arrange
+            string nama = "Terlambat Masuk";
+
+            // Act
+            int poin = TabelPelanggaran.GetPoin(nama);
+
+            // Assert
+            Assert.AreEqual(10, poin);
         }
 
         [TestMethod]
         [ExpectedException(typeof(ArgumentException))]
         public void GetPoin_EmptyNama_ThrowsArgumentException()
         {
+            // Act
             TabelPelanggaran.GetPoin("");
         }
 
         [TestMethod]
         [ExpectedException(typeof(KeyNotFoundException))]
-        public void GetPoin_InvalidNama_ThrowsKeyNotFoundException()
+        public void GetPoin_NamaTidakDitemukan_ThrowsKeyNotFoundException()
         {
-            TabelPelanggaran.GetPoin("Pelanggaran Tidak Ada");
+            // Act
+            TabelPelanggaran.GetPoin("Melanggar Jam Malam");
+        }
+
+        [TestMethod]
+        public void KonstruktorStatic_DaftarHarusBerisiData()
+        {
+            // Assert
+            Assert.IsNotNull(TabelPelanggaran.Daftar);
+            Assert.IsTrue(TabelPelanggaran.Daftar.Count > 0);
+        }
+
+        [TestMethod]
+        public void GetPoin_PoinSelaluNonNegatif()
+        {
+            // Arrange
+            string nama = "Merokok";
+
+            // Act
+            int poin = TabelPelanggaran.GetPoin(nama);
+
+            // Assert (gandakan seperti Debug.Assert)
+            Assert.IsTrue(poin >= 0, "Poin pelanggaran harus bernilai positif.");
         }
     }
 }
