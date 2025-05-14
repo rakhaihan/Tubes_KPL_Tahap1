@@ -1,8 +1,14 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "x35Y5jrtZGw=",
   "success": true,
   "projectFilePath": "F:\\KPL\\baru lagi karna sln kahapus\\Tubes_KPL_Tahap1\\Tubes_Console\\Tubes_Console.csproj",
+=======
+  "dgSpecHash": "0amKBgdoJc4=",
+  "success": true,
+  "projectFilePath": "D:\\jack_praktikann\\Tubes_KPL_Tahap1\\Tubes_Console\\Tubes_Console.csproj",
+>>>>>>> origin/jack
   "expectedPackageFiles": [],
   "logs": []
 }
