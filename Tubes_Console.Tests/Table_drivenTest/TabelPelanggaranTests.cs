@@ -1,11 +1,13 @@
-
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using Tubes_Console.table_driven;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 
-using System;
-using System.Diagnostics;
-using Tubes_Console.table_driven;
 
-namespace Tubes_Console.Tests
+namespace Tubes_Console.Tests.Table_drivenTest
 {
     [TestClass]
     public class TabelPelanggaranTests

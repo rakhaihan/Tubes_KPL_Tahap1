@@ -1,9 +1,13 @@
-﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
 using Tubes_Console.Automata;
 using Tubes_Console.Model;
-using System;
+using Microsoft.VisualStudio.TestTools.UnitTesting;
 
-namespace Tubes_Console.Tests
+namespace Tubes_Console.Tests.AutomataTest
 {
     [TestClass]
     public class PelanggaranStateMachineTests
