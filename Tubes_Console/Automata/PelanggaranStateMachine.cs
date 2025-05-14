@@ -1,36 +1,37 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+using System;
 using Tubes_Console.Model;
+using System.Collections.Generic;
+using System.Diagnostics;
+using System.Linq;
 
 namespace Tubes_Console.Automata
 {
     public class PelanggaranStateMachine
     {
-        struct Transisi
+        private struct Transisi
         {
-            public StatusPelanggaran prevState;
-            public StatusPelanggaran nextState;
-            public Trigger trigger;
+            public StatusPelanggaran PrevState { get; }
+            public StatusPelanggaran NextState { get; }
+            public Trigger Trigger { get; }
 
             public Transisi(StatusPelanggaran prevState, StatusPelanggaran nextState, Trigger trigger)
             {
-                if (!Enum.IsDefined(typeof(StatusPelanggaran), prevState) ||
-                    !Enum.IsDefined(typeof(StatusPelanggaran), nextState) ||
-                    !Enum.IsDefined(typeof(Trigger), trigger))
-                {
-                    throw new ArgumentException("Nilai status atau trigger tidak valid.");
-                }
+                if (!Enum.IsDefined(typeof(StatusPelanggaran), prevState))
+                    throw new ArgumentException("PrevState tidak valid.");
 
-                this.prevState = prevState;
-                this.nextState = nextState;
-                this.trigger = trigger;
+                if (!Enum.IsDefined(typeof(StatusPelanggaran), nextState))
+                    throw new ArgumentException("NextState tidak valid.");
+
+                if (!Enum.IsDefined(typeof(Trigger), trigger))
+                    throw new ArgumentException("Trigger tidak valid.");
+
+                PrevState = prevState;
+                NextState = nextState;
+                Trigger = trigger;
             }
         }
 
-        private Transisi[] transitions =
+        private readonly List<Transisi> transitions = new List<Transisi>
         {
             new Transisi(StatusPelanggaran.DILAPORKAN, StatusPelanggaran.DISETUJUI, Trigger.SETUJUI),
             new Transisi(StatusPelanggaran.DISETUJUI, StatusPelanggaran.DIBERI_SANKSI, Trigger.BERI_SANKSI),
@@ -45,34 +46,48 @@ namespace Tubes_Console.Automata
             private set
             {
                 if (!Enum.IsDefined(typeof(StatusPelanggaran), value))
-                {
-                    throw new ArgumentException("Status tidak valid.");
-                }
+                    throw new ArgumentException("State tidak valid.");
+
                 currentState = value;
             }
         }
 
         public StatusPelanggaran GetNextState(StatusPelanggaran prevState, Trigger trigger)
         {
-            if (!Enum.IsDefined(typeof(StatusPelanggaran), prevState) || !Enum.IsDefined(typeof(Trigger), trigger))
-            {
-                throw new ArgumentException("PrevState atau trigger tidak valid.");
-            }
+            if (!Enum.IsDefined(typeof(StatusPelanggaran), prevState))
+                throw new ArgumentException(nameof(prevState), "PrevState tidak valid.");
+
+            if (!Enum.IsDefined(typeof(Trigger), trigger))
+                throw new ArgumentException(nameof(trigger), "Trigger tidak valid.");
 
             foreach (var t in transitions)
             {
-                if (t.prevState == prevState && t.trigger == trigger)
+                if (t.PrevState == prevState && t.Trigger == trigger)
                 {
-                    return t.nextState;
+                    Debug.Assert(Enum.IsDefined(typeof(StatusPelanggaran), t.NextState), "NextState harus valid.");
+                    return t.NextState;
                 }
             }
 
-            throw new InvalidOperationException($"Tidak ada transisi yang cocok untuk {prevState} dengan trigger {trigger}");
+            var validTriggers = GetValidTriggers(prevState);
+            throw new InvalidOperationException(
+                $"Transisi tidak tersedia dari state '{prevState}' dengan trigger '{trigger}'.\n" +
+                $"Trigger yang valid dari state ini: {string.Join(", ", validTriggers)}");
         }
 
         public void Activate(Trigger trigger)
         {
-            CurrentState = GetNextState(CurrentState, trigger);
+            var next = GetNextState(CurrentState, trigger);
+            CurrentState = next;
+
+            Debug.Assert(Enum.IsDefined(typeof(StatusPelanggaran), CurrentState), "CurrentState harus valid setelah transisi.");
+        }
+
+        public IEnumerable<Trigger> GetValidTriggers(StatusPelanggaran state)
+        {
+            return transitions
+                .Where(t => t.PrevState == state)
+                .Select(t => t.Trigger);
         }
     }
 }
