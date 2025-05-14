@@ -3,12 +3,15 @@
   "WorkspaceRootPath": "D:\\Education\\University\\telkom\\mulai kuliah\\SMT 4\\Konstruksi Perangkat Lunak\\A1 TUbes\\fix\\Tubes_KPL_Tahap1\\Tubes_Console\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{29591B60-7BB1-4625-A6DF-5AA3B02C8201}|Tubes_Console.csproj|d:\\education\\university\\telkom\\mulai kuliah\\smt 4\\konstruksi perangkat lunak\\a1 tubes\\fix\\tubes_kpl_tahap1\\tubes_console\\automata\\pelanggaranstatemachine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{29591B60-7BB1-4625-A6DF-5AA3B02C8201}|Tubes_Console.csproj|solutionrelative:automata\\pelanggaranstatemachine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{29591B60-7BB1-4625-A6DF-5AA3B02C8201}|Tubes_Console.csproj|d:\\education\\university\\telkom\\mulai kuliah\\smt 4\\konstruksi perangkat lunak\\a1 tubes\\fix\\tubes_kpl_tahap1\\tubes_console\\table driven\\tablepelanggaran.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{29591B60-7BB1-4625-A6DF-5AA3B02C8201}|Tubes_Console.csproj|solutionrelative:table driven\\tablepelanggaran.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{558D67A2-5753-4A93-8C8F-F0AE676ABD19}|..\\Tubes_Console.Tests\\Tubes_Console.Tests.csproj|d:\\education\\university\\telkom\\mulai kuliah\\smt 4\\konstruksi perangkat lunak\\a1 tubes\\fix\\tubes_kpl_tahap1\\tubes_console.tests\\tabelpelanggarantests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29591B60-7BB1-4625-A6DF-5AA3B02C8201}|Tubes_Console.csproj|d:\\education\\university\\telkom\\mulai kuliah\\smt 4\\konstruksi perangkat lunak\\a1 tubes\\fix\\tubes_kpl_tahap1\\tubes_console\\automata\\pelanggaranstatemachine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29591B60-7BB1-4625-A6DF-5AA3B02C8201}|Tubes_Console.csproj|solutionrelative:automata\\pelanggaranstatemachine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{29591B60-7BB1-4625-A6DF-5AA3B02C8201}|Tubes_Console.csproj|d:\\education\\university\\telkom\\mulai kuliah\\smt 4\\konstruksi perangkat lunak\\a1 tubes\\fix\\tubes_kpl_tahap1\\tubes_console\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -24,9 +27,6 @@
     },
     {
       "AbsoluteMoniker": "D:0:0:{558D67A2-5753-4A93-8C8F-F0AE676ABD19}|..\\Tubes_Console.Tests\\Tubes_Console.Tests.csproj|d:\\education\\university\\telkom\\mulai kuliah\\smt 4\\konstruksi perangkat lunak\\a1 tubes\\fix\\tubes_kpl_tahap1\\tubes_console.tests\\pelanggaranstatemachinetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{558D67A2-5753-4A93-8C8F-F0AE676ABD19}|..\\Tubes_Console.Tests\\Tubes_Console.Tests.csproj|d:\\education\\university\\telkom\\mulai kuliah\\smt 4\\konstruksi perangkat lunak\\a1 tubes\\fix\\tubes_kpl_tahap1\\tubes_console.tests\\tabelpelanggarantests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{29591B60-7BB1-4625-A6DF-5AA3B02C8201}|Tubes_Console.csproj|d:\\education\\university\\telkom\\mulai kuliah\\smt 4\\konstruksi perangkat lunak\\a1 tubes\\fix\\tubes_kpl_tahap1\\tubes_console\\table driven\\levelpelanggaran.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -48,20 +48,7 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "StatusPelanggaran.cs",
-              "DocumentMoniker": "D:\\Education\\University\\telkom\\mulai kuliah\\SMT 4\\Konstruksi Perangkat Lunak\\A1 TUbes\\fix\\Tubes_KPL_Tahap1\\Tubes_Console\\Model\\StatusPelanggaran.cs",
-              "RelativeDocumentMoniker": "Model\\StatusPelanggaran.cs",
-              "ToolTip": "D:\\Education\\University\\telkom\\mulai kuliah\\SMT 4\\Konstruksi Perangkat Lunak\\A1 TUbes\\fix\\Tubes_KPL_Tahap1\\Tubes_Console\\Model\\StatusPelanggaran.cs",
-              "RelativeToolTip": "Model\\StatusPelanggaran.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-14T05:10:44.36Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "PelanggaranStateMachineTests.cs",
               "DocumentMoniker": "D:\\Education\\University\\telkom\\mulai kuliah\\SMT 4\\Konstruksi Perangkat Lunak\\A1 TUbes\\fix\\Tubes_KPL_Tahap1\\Tubes_Console.Tests\\PelanggaranStateMachineTests.cs",
               "RelativeDocumentMoniker": "..\\Tubes_Console.Tests\\PelanggaranStateMachineTests.cs",
@@ -85,7 +72,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "PelanggaranStateMachine.cs",
               "DocumentMoniker": "D:\\Education\\University\\telkom\\mulai kuliah\\SMT 4\\Konstruksi Perangkat Lunak\\A1 TUbes\\fix\\Tubes_KPL_Tahap1\\Tubes_Console\\Automata\\PelanggaranStateMachine.cs",
               "RelativeDocumentMoniker": "Automata\\PelanggaranStateMachine.cs",
@@ -98,20 +85,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "TablePelanggaran.cs",
               "DocumentMoniker": "D:\\Education\\University\\telkom\\mulai kuliah\\SMT 4\\Konstruksi Perangkat Lunak\\A1 TUbes\\fix\\Tubes_KPL_Tahap1\\Tubes_Console\\table driven\\TablePelanggaran.cs",
               "RelativeDocumentMoniker": "table driven\\TablePelanggaran.cs",
               "ToolTip": "D:\\Education\\University\\telkom\\mulai kuliah\\SMT 4\\Konstruksi Perangkat Lunak\\A1 TUbes\\fix\\Tubes_KPL_Tahap1\\Tubes_Console\\table driven\\TablePelanggaran.cs",
               "RelativeToolTip": "table driven\\TablePelanggaran.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAwwB8AAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-14T01:46:46.573Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Education\\University\\telkom\\mulai kuliah\\SMT 4\\Konstruksi Perangkat Lunak\\A1 TUbes\\fix\\Tubes_KPL_Tahap1\\Tubes_Console\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -119,12 +106,11 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-14T02:04:55.172Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-14T02:04:55.172Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Trigger.cs",
               "DocumentMoniker": "D:\\Education\\University\\telkom\\mulai kuliah\\SMT 4\\Konstruksi Perangkat Lunak\\A1 TUbes\\fix\\Tubes_KPL_Tahap1\\Tubes_Console\\Automata\\Trigger.cs",
               "RelativeDocumentMoniker": "Automata\\Trigger.cs",
@@ -132,20 +118,32 @@
               "RelativeToolTip": "Automata\\Trigger.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-14T01:46:39.876Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-14T01:46:39.876Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 1,
               "Title": "TabelPelanggaranTests.cs",
               "DocumentMoniker": "D:\\Education\\University\\telkom\\mulai kuliah\\SMT 4\\Konstruksi Perangkat Lunak\\A1 TUbes\\fix\\Tubes_KPL_Tahap1\\Tubes_Console.Tests\\TabelPelanggaranTests.cs",
               "RelativeDocumentMoniker": "..\\Tubes_Console.Tests\\TabelPelanggaranTests.cs",
               "ToolTip": "D:\\Education\\University\\telkom\\mulai kuliah\\SMT 4\\Konstruksi Perangkat Lunak\\A1 TUbes\\fix\\Tubes_KPL_Tahap1\\Tubes_Console.Tests\\TabelPelanggaranTests.cs",
               "RelativeToolTip": "..\\Tubes_Console.Tests\\TabelPelanggaranTests.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAZAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-14T02:11:35.631Z"
+              "WhenOpened": "2025-05-14T02:11:35.631Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "StatusPelanggaran.cs",
+              "DocumentMoniker": "D:\\Education\\University\\telkom\\mulai kuliah\\SMT 4\\Konstruksi Perangkat Lunak\\A1 TUbes\\fix\\Tubes_KPL_Tahap1\\Tubes_Console\\Model\\StatusPelanggaran.cs",
+              "RelativeDocumentMoniker": "Model\\StatusPelanggaran.cs",
+              "ToolTip": "D:\\Education\\University\\telkom\\mulai kuliah\\SMT 4\\Konstruksi Perangkat Lunak\\A1 TUbes\\fix\\Tubes_KPL_Tahap1\\Tubes_Console\\Model\\StatusPelanggaran.cs",
+              "RelativeToolTip": "Model\\StatusPelanggaran.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T05:10:44.36Z"
             },
             {
               "$type": "Document",
