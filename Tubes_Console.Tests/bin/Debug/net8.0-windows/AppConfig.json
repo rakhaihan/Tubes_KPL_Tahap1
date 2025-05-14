@@ -1,0 +1,8 @@
+{
+  "BatasPoinPeringatan": 5,
+  "BatasPoinPanggilanOrangTua": 15,
+  "BatasPoinSkorsing": 25,
+  "NotifikasiEmailAktif": false,
+  "NotifikasiWhatsappAktif": true,
+  "DefaultRoleUserBaru": "Guru"
+}

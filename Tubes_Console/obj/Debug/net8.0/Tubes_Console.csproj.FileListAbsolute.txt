@@ -28,3 +28,18 @@ D:\jack_praktikann\Tubes_KPL_Tahap1\Tubes_Console\obj\Debug\net8.0\refint\Tubes_
 D:\jack_praktikann\Tubes_KPL_Tahap1\Tubes_Console\obj\Debug\net8.0\Tubes_Console.pdb
 D:\jack_praktikann\Tubes_KPL_Tahap1\Tubes_Console\obj\Debug\net8.0\Tubes_Console.genruntimeconfig.cache
 D:\jack_praktikann\Tubes_KPL_Tahap1\Tubes_Console\obj\Debug\net8.0\ref\Tubes_Console.dll
+F:\KPL\unit test\Tubes_KPL_Tahap1\Tubes_Console\bin\Debug\net8.0\Tubes_Console.exe
+F:\KPL\unit test\Tubes_KPL_Tahap1\Tubes_Console\bin\Debug\net8.0\Tubes_Console.deps.json
+F:\KPL\unit test\Tubes_KPL_Tahap1\Tubes_Console\bin\Debug\net8.0\Tubes_Console.runtimeconfig.json
+F:\KPL\unit test\Tubes_KPL_Tahap1\Tubes_Console\bin\Debug\net8.0\Tubes_Console.dll
+F:\KPL\unit test\Tubes_KPL_Tahap1\Tubes_Console\bin\Debug\net8.0\Tubes_Console.pdb
+F:\KPL\unit test\Tubes_KPL_Tahap1\Tubes_Console\obj\Debug\net8.0\Tubes_Console.GeneratedMSBuildEditorConfig.editorconfig
+F:\KPL\unit test\Tubes_KPL_Tahap1\Tubes_Console\obj\Debug\net8.0\Tubes_Console.AssemblyInfoInputs.cache
+F:\KPL\unit test\Tubes_KPL_Tahap1\Tubes_Console\obj\Debug\net8.0\Tubes_Console.AssemblyInfo.cs
+F:\KPL\unit test\Tubes_KPL_Tahap1\Tubes_Console\obj\Debug\net8.0\Tubes_Console.csproj.CoreCompileInputs.cache
+F:\KPL\unit test\Tubes_KPL_Tahap1\Tubes_Console\obj\Debug\net8.0\Tubes_Console.sourcelink.json
+F:\KPL\unit test\Tubes_KPL_Tahap1\Tubes_Console\obj\Debug\net8.0\Tubes_Console.dll
+F:\KPL\unit test\Tubes_KPL_Tahap1\Tubes_Console\obj\Debug\net8.0\refint\Tubes_Console.dll
+F:\KPL\unit test\Tubes_KPL_Tahap1\Tubes_Console\obj\Debug\net8.0\Tubes_Console.pdb
+F:\KPL\unit test\Tubes_KPL_Tahap1\Tubes_Console\obj\Debug\net8.0\Tubes_Console.genruntimeconfig.cache
+F:\KPL\unit test\Tubes_KPL_Tahap1\Tubes_Console\obj\Debug\net8.0\ref\Tubes_Console.dll

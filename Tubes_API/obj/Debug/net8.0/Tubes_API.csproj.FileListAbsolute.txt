@@ -103,3 +103,40 @@ D:\jack_praktikann\Tubes_KPL_Tahap1\Tubes_API\obj\Debug\net8.0\refint\Tubes_API.
 D:\jack_praktikann\Tubes_KPL_Tahap1\Tubes_API\obj\Debug\net8.0\Tubes_API.pdb
 D:\jack_praktikann\Tubes_KPL_Tahap1\Tubes_API\obj\Debug\net8.0\Tubes_API.genruntimeconfig.cache
 D:\jack_praktikann\Tubes_KPL_Tahap1\Tubes_API\obj\Debug\net8.0\ref\Tubes_API.dll
+F:\KPL\unit test\Tubes_KPL_Tahap1\Tubes_API\bin\Debug\net8.0\appsettings.Development.json
+F:\KPL\unit test\Tubes_KPL_Tahap1\Tubes_API\bin\Debug\net8.0\appsettings.json
+F:\KPL\unit test\Tubes_KPL_Tahap1\Tubes_API\bin\Debug\net8.0\Tubes_API.staticwebassets.endpoints.json
+F:\KPL\unit test\Tubes_KPL_Tahap1\Tubes_API\bin\Debug\net8.0\Tubes_API.exe
+F:\KPL\unit test\Tubes_KPL_Tahap1\Tubes_API\bin\Debug\net8.0\Tubes_API.deps.json
+F:\KPL\unit test\Tubes_KPL_Tahap1\Tubes_API\bin\Debug\net8.0\Tubes_API.runtimeconfig.json
+F:\KPL\unit test\Tubes_KPL_Tahap1\Tubes_API\bin\Debug\net8.0\Tubes_API.dll
+F:\KPL\unit test\Tubes_KPL_Tahap1\Tubes_API\bin\Debug\net8.0\Tubes_API.pdb
+F:\KPL\unit test\Tubes_KPL_Tahap1\Tubes_API\bin\Debug\net8.0\Microsoft.OpenApi.dll
+F:\KPL\unit test\Tubes_KPL_Tahap1\Tubes_API\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\KPL\unit test\Tubes_KPL_Tahap1\Tubes_API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\KPL\unit test\Tubes_KPL_Tahap1\Tubes_API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\KPL\unit test\Tubes_KPL_Tahap1\Tubes_API\obj\Debug\net8.0\Tubes_API.csproj.AssemblyReference.cache
+F:\KPL\unit test\Tubes_KPL_Tahap1\Tubes_API\obj\Debug\net8.0\Tubes_API.GeneratedMSBuildEditorConfig.editorconfig
+F:\KPL\unit test\Tubes_KPL_Tahap1\Tubes_API\obj\Debug\net8.0\Tubes_API.AssemblyInfoInputs.cache
+F:\KPL\unit test\Tubes_KPL_Tahap1\Tubes_API\obj\Debug\net8.0\Tubes_API.AssemblyInfo.cs
+F:\KPL\unit test\Tubes_KPL_Tahap1\Tubes_API\obj\Debug\net8.0\Tubes_API.csproj.CoreCompileInputs.cache
+F:\KPL\unit test\Tubes_KPL_Tahap1\Tubes_API\obj\Debug\net8.0\Tubes_API.MvcApplicationPartsAssemblyInfo.cs
+F:\KPL\unit test\Tubes_KPL_Tahap1\Tubes_API\obj\Debug\net8.0\Tubes_API.MvcApplicationPartsAssemblyInfo.cache
+F:\KPL\unit test\Tubes_KPL_Tahap1\Tubes_API\obj\Debug\net8.0\Tubes_API.sourcelink.json
+F:\KPL\unit test\Tubes_KPL_Tahap1\Tubes_API\obj\Debug\net8.0\scopedcss\bundle\Tubes_API.styles.css
+F:\KPL\unit test\Tubes_KPL_Tahap1\Tubes_API\obj\Debug\net8.0\staticwebassets.build.json
+F:\KPL\unit test\Tubes_KPL_Tahap1\Tubes_API\obj\Debug\net8.0\staticwebassets.development.json
+F:\KPL\unit test\Tubes_KPL_Tahap1\Tubes_API\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+F:\KPL\unit test\Tubes_KPL_Tahap1\Tubes_API\obj\Debug\net8.0\staticwebassets\msbuild.Tubes_API.Microsoft.AspNetCore.StaticWebAssets.props
+F:\KPL\unit test\Tubes_KPL_Tahap1\Tubes_API\obj\Debug\net8.0\staticwebassets\msbuild.Tubes_API.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+F:\KPL\unit test\Tubes_KPL_Tahap1\Tubes_API\obj\Debug\net8.0\staticwebassets\msbuild.build.Tubes_API.props
+F:\KPL\unit test\Tubes_KPL_Tahap1\Tubes_API\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Tubes_API.props
+F:\KPL\unit test\Tubes_KPL_Tahap1\Tubes_API\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Tubes_API.props
+F:\KPL\unit test\Tubes_KPL_Tahap1\Tubes_API\obj\Debug\net8.0\staticwebassets.pack.json
+F:\KPL\unit test\Tubes_KPL_Tahap1\Tubes_API\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+F:\KPL\unit test\Tubes_KPL_Tahap1\Tubes_API\obj\Debug\net8.0\Tubes_API.csproj.Up2Date
+F:\KPL\unit test\Tubes_KPL_Tahap1\Tubes_API\obj\Debug\net8.0\Tubes_API.dll
+F:\KPL\unit test\Tubes_KPL_Tahap1\Tubes_API\obj\Debug\net8.0\refint\Tubes_API.dll
+F:\KPL\unit test\Tubes_KPL_Tahap1\Tubes_API\obj\Debug\net8.0\Tubes_API.pdb
+F:\KPL\unit test\Tubes_KPL_Tahap1\Tubes_API\obj\Debug\net8.0\Tubes_API.genruntimeconfig.cache
+F:\KPL\unit test\Tubes_KPL_Tahap1\Tubes_API\obj\Debug\net8.0\ref\Tubes_API.dll

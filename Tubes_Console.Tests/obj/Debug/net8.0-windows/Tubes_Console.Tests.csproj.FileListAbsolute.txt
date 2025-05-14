@@ -372,3 +372,13 @@ D:\jack_praktikann\Tubes_KPL_Tahap1\Tubes_Console.Tests\obj\Debug\net8.0-windows
 D:\jack_praktikann\Tubes_KPL_Tahap1\Tubes_Console.Tests\obj\Debug\net8.0-windows\Tubes_Console.Tests.pdb
 D:\jack_praktikann\Tubes_KPL_Tahap1\Tubes_Console.Tests\obj\Debug\net8.0-windows\Tubes_Console.Tests.genruntimeconfig.cache
 D:\jack_praktikann\Tubes_KPL_Tahap1\Tubes_Console.Tests\obj\Debug\net8.0-windows\ref\Tubes_Console.Tests.dll
+F:\KPL\unit test\Tubes_KPL_Tahap1\Tubes_Console.Tests\bin\Debug\net8.0-windows\.msCoverageSourceRootsMapping_Tubes_Console.Tests
+F:\KPL\unit test\Tubes_KPL_Tahap1\Tubes_Console.Tests\obj\Debug\net8.0-windows\Tubes_Console.Tests.csproj.AssemblyReference.cache
+F:\KPL\unit test\Tubes_KPL_Tahap1\Tubes_Console.Tests\obj\Debug\net8.0-windows\Tubes_Console.Tests.GeneratedMSBuildEditorConfig.editorconfig
+F:\KPL\unit test\Tubes_KPL_Tahap1\Tubes_Console.Tests\obj\Debug\net8.0-windows\Tubes_Console.Tests.AssemblyInfoInputs.cache
+F:\KPL\unit test\Tubes_KPL_Tahap1\Tubes_Console.Tests\obj\Debug\net8.0-windows\Tubes_Console.Tests.AssemblyInfo.cs
+F:\KPL\unit test\Tubes_KPL_Tahap1\Tubes_Console.Tests\obj\Debug\net8.0-windows\Tubes_Console.Tests.csproj.CoreCompileInputs.cache
+F:\KPL\unit test\Tubes_KPL_Tahap1\Tubes_Console.Tests\obj\Debug\net8.0-windows\Tubes_Console.Tests.sourcelink.json
+F:\KPL\unit test\Tubes_KPL_Tahap1\Tubes_Console.Tests\obj\Debug\net8.0-windows\Tubes_Console.Tests.dll
+F:\KPL\unit test\Tubes_KPL_Tahap1\Tubes_Console.Tests\obj\Debug\net8.0-windows\refint\Tubes_Console.Tests.dll
+F:\KPL\unit test\Tubes_KPL_Tahap1\Tubes_Console.Tests\obj\Debug\net8.0-windows\Tubes_Console.Tests.pdb

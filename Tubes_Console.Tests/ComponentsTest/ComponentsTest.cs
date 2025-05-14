@@ -11,19 +11,32 @@ namespace Tubes_Console.Tests.ComponentsTest
     {
         private class DummyData
         {
-            public string Name { get; set; }
-            public int Age { get; set; }
+            public string NIM { get; set; }
+            public string Nama { get; set; }
+            public string Pelanggaran { get; set; }
+            public int Poin { get; set; }
+            public DateTime Tanggal { get; set; }
         }
 
         [TestMethod]
         public void TampilkanForm_ShouldPrintCorrectOutput()
         {
-            var data = new DummyData { Name = "Alice", Age = 25 };
+            var data = new DummyData
+            {
+                NIM = "123456",
+                Nama = "Azki",
+                Pelanggaran = "Merokok",
+                Poin = 20,
+                Tanggal = new DateTime(2025, 5, 1)
+            };
 
             var fields = new Dictionary<string, Func<DummyData, string>>
             {
-                { "Nama", d => d.Name },
-                { "Umur", d => d.Age.ToString() }
+                { "NIM", d => d.NIM },
+                { "Nama", d => d.Nama },
+                { "Pelanggaran", d => d.Pelanggaran },
+                { "Poin", d => d.Poin.ToString() },
+                { "Tanggal", d => d.Tanggal.ToString("yyyy-MM-dd") }
             };
 
             using var sw = new StringWriter();
@@ -33,8 +46,11 @@ namespace Tubes_Console.Tests.ComponentsTest
 
             var output = sw.ToString().Trim().Split(Environment.NewLine);
 
-            CollectionAssert.Contains(output, "Nama: Alice");
-            CollectionAssert.Contains(output, "Umur: 25");
+            CollectionAssert.Contains(output, "NIM: 123456");
+            CollectionAssert.Contains(output, "Nama: Azki");
+            CollectionAssert.Contains(output, "Pelanggaran: Merokok");
+            CollectionAssert.Contains(output, "Poin: 20");
+            CollectionAssert.Contains(output, "Tanggal: 2025-05-01");
         }
 
         [TestMethod]
@@ -42,14 +58,17 @@ namespace Tubes_Console.Tests.ComponentsTest
         {
             var dataList = new List<DummyData>
             {
-                new DummyData { Name = "Bob", Age = 30 },
-                new DummyData { Name = "Charlie", Age = 40 }
+                new DummyData { NIM = "111", Nama = "Abdul", Pelanggaran = "Bolos", Poin = 10, Tanggal = DateTime.Today },
+                new DummyData { NIM = "222", Nama = "Malik", Pelanggaran = "Merokok", Poin = 20, Tanggal = DateTime.Today }
             };
 
             var columns = new Dictionary<string, Func<DummyData, string>>
             {
-                { "Nama", d => d.Name },
-                { "Umur", d => d.Age.ToString() }
+                { "NIM", d => d.NIM },
+                { "Nama", d => d.Nama },
+                { "Pelanggaran", d => d.Pelanggaran },
+                { "Poin", d => d.Poin.ToString() },
+                { "Tanggal", d => d.Tanggal.ToString("yyyy-MM-dd") }
             };
 
             using var sw = new StringWriter();
@@ -59,9 +78,9 @@ namespace Tubes_Console.Tests.ComponentsTest
 
             var output = sw.ToString().Trim().Split(Environment.NewLine);
 
-            Assert.AreEqual("Nama | Umur", output[0]);
-            CollectionAssert.Contains(output, "Bob | 30");
-            CollectionAssert.Contains(output, "Charlie | 40");
+            Assert.AreEqual("NIM | Nama | Pelanggaran | Poin | Tanggal", output[0]);
+            CollectionAssert.Contains(output, $"111 | Abdul | Bolos | 10 | {DateTime.Today:yyyy-MM-dd}");
+            CollectionAssert.Contains(output, $"222 | Malik | Merokok | 20 | {DateTime.Today:yyyy-MM-dd}");
         }
     }
 }
