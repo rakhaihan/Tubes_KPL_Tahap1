@@ -1,0 +1,412 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\asus8\\Tubes_KPL_Tahap1\\Tubes_Console.Tests\\TestLibrary\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\C#\\Library\\Library\\ConfigurationLibrary\\AppConfigLibrary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|Library||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\C#\\Library\\Library\\ConfigurationLibrary\\ConfigManagerLibrary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\C#\\Library\\Library\\ModelLibrary\\SiswaLibrary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\C#\\Library\\Library\\ModelLibrary\\StatusPelanggaranLibrary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\C#\\Library\\Library\\ModelLibrary\\SanksiLibrary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\C#\\Library\\Library\\ModelLibrary\\RolePenggunaLibrary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\C#\\Library\\Library\\ModelLibrary\\PenggunaLibrary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F009A49-D4D6-4747-9B27-81E16B570396}|TestLibrary\\TestLibrary.csproj|C:\\Users\\asus8\\Tubes_KPL_Tahap1\\Tubes_Console.Tests\\TestLibrary\\testlibrary\\formatterlibrarytest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F009A49-D4D6-4747-9B27-81E16B570396}|TestLibrary\\TestLibrary.csproj|solutionrelative:testlibrary\\formatterlibrarytest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F009A49-D4D6-4747-9B27-81E16B570396}|TestLibrary\\TestLibrary.csproj|C:\\Users\\asus8\\Tubes_KPL_Tahap1\\Tubes_Console.Tests\\TestLibrary\\testlibrary\\jenispelanggaranlibrarytest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F009A49-D4D6-4747-9B27-81E16B570396}|TestLibrary\\TestLibrary.csproj|solutionrelative:testlibrary\\jenispelanggaranlibrarytest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F009A49-D4D6-4747-9B27-81E16B570396}|TestLibrary\\TestLibrary.csproj|C:\\Users\\asus8\\Tubes_KPL_Tahap1\\Tubes_Console.Tests\\TestLibrary\\testlibrary\\formbuilderlibrarytest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F009A49-D4D6-4747-9B27-81E16B570396}|TestLibrary\\TestLibrary.csproj|solutionrelative:testlibrary\\formbuilderlibrarytest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F009A49-D4D6-4747-9B27-81E16B570396}|TestLibrary\\TestLibrary.csproj|C:\\Users\\asus8\\Tubes_KPL_Tahap1\\Tubes_Console.Tests\\TestLibrary\\testlibrary\\pelanggaranstatemachinelibrarytest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F009A49-D4D6-4747-9B27-81E16B570396}|TestLibrary\\TestLibrary.csproj|solutionrelative:testlibrary\\pelanggaranstatemachinelibrarytest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F009A49-D4D6-4747-9B27-81E16B570396}|TestLibrary\\TestLibrary.csproj|C:\\Users\\asus8\\Tubes_KPL_Tahap1\\Tubes_Console.Tests\\TestLibrary\\testlibrary\\siswalibrarytest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F009A49-D4D6-4747-9B27-81E16B570396}|TestLibrary\\TestLibrary.csproj|solutionrelative:testlibrary\\siswalibrarytest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F009A49-D4D6-4747-9B27-81E16B570396}|TestLibrary\\TestLibrary.csproj|C:\\Users\\asus8\\Tubes_KPL_Tahap1\\Tubes_Console.Tests\\TestLibrary\\testlibrary\\appconfiglibrarytest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F009A49-D4D6-4747-9B27-81E16B570396}|TestLibrary\\TestLibrary.csproj|solutionrelative:testlibrary\\appconfiglibrarytest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F009A49-D4D6-4747-9B27-81E16B570396}|TestLibrary\\TestLibrary.csproj|C:\\Users\\asus8\\Tubes_KPL_Tahap1\\Tubes_Console.Tests\\TestLibrary\\testlibrary\\pelanggaranservicelibrarytest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F009A49-D4D6-4747-9B27-81E16B570396}|TestLibrary\\TestLibrary.csproj|solutionrelative:testlibrary\\pelanggaranservicelibrarytest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F009A49-D4D6-4747-9B27-81E16B570396}|TestLibrary\\TestLibrary.csproj|C:\\Users\\asus8\\Tubes_KPL_Tahap1\\Tubes_Console.Tests\\TestLibrary\\testlibrary\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{2F009A49-D4D6-4747-9B27-81E16B570396}|TestLibrary\\TestLibrary.csproj|solutionrelative:testlibrary\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F009A49-D4D6-4747-9B27-81E16B570396}|TestLibrary\\TestLibrary.csproj|C:\\Users\\asus8\\Tubes_KPL_Tahap1\\Tubes_Console.Tests\\TestLibrary\\testlibrary\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F009A49-D4D6-4747-9B27-81E16B570396}|TestLibrary\\TestLibrary.csproj|solutionrelative:testlibrary\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F009A49-D4D6-4747-9B27-81E16B570396}|TestLibrary\\TestLibrary.csproj|C:\\Users\\asus8\\Tubes_KPL_Tahap1\\Tubes_Console.Tests\\TestLibrary\\testlibrary\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{2F009A49-D4D6-4747-9B27-81E16B570396}|TestLibrary\\TestLibrary.csproj|solutionrelative:testlibrary\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F009A49-D4D6-4747-9B27-81E16B570396}|TestLibrary\\TestLibrary.csproj|C:\\Users\\asus8\\Tubes_KPL_Tahap1\\Tubes_Console.Tests\\TestLibrary\\testlibrary\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F009A49-D4D6-4747-9B27-81E16B570396}|TestLibrary\\TestLibrary.csproj|solutionrelative:testlibrary\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\C#\\Library\\Library\\UtilsLibrary\\FormatterLibrary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\C#\\Library\\Library\\TableDrivenLibrary\\LevelPelanggaranLibrary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\C#\\Library\\Library\\TableDrivenLibrary\\JenisPelanggaranLibrary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\C#\\Library\\Library\\ModelLibrary\\PelanggaranLibrary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\C#\\Library\\Library\\AutomataLibrary\\PelanggaranStateMachineLibrary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\C#\\Library\\Library\\ComponentsLibrary\\FormBuilderLibrary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FE5A587-28CA-4BDC-8BFE-51D49E30107E}|..\\..\\Library\\Library\\Library.csproj|c:\\users\\asus8\\tubes_kpl_tahap1\\library\\library\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StatusPelanggaranLibrary.cs",
+              "DocumentMoniker": "D:\\C#\\Library\\Library\\ModelLibrary\\StatusPelanggaranLibrary.cs",
+              "ToolTip": "D:\\C#\\Library\\Library\\ModelLibrary\\StatusPelanggaranLibrary.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T05:38:32.732Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SiswaLibrary.cs",
+              "DocumentMoniker": "D:\\C#\\Library\\Library\\ModelLibrary\\SiswaLibrary.cs",
+              "ToolTip": "D:\\C#\\Library\\Library\\ModelLibrary\\SiswaLibrary.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T05:38:31.324Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ConfigManagerLibrary.cs",
+              "DocumentMoniker": "D:\\C#\\Library\\Library\\ConfigurationLibrary\\ConfigManagerLibrary.cs",
+              "ToolTip": "D:\\C#\\Library\\Library\\ConfigurationLibrary\\ConfigManagerLibrary.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T05:37:12.499Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AppConfigLibrary.cs",
+              "DocumentMoniker": "D:\\C#\\Library\\Library\\ConfigurationLibrary\\AppConfigLibrary.cs",
+              "ToolTip": "D:\\C#\\Library\\Library\\ConfigurationLibrary\\AppConfigLibrary.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAuwAoAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T05:35:39.665Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "PelanggaranLibrary.cs",
+              "DocumentMoniker": "D:\\C#\\Library\\Library\\ModelLibrary\\PelanggaranLibrary.cs",
+              "ToolTip": "D:\\C#\\Library\\Library\\ModelLibrary\\PelanggaranLibrary.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T05:38:35.789Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "JenisPelanggaranLibrary.cs",
+              "DocumentMoniker": "D:\\C#\\Library\\Library\\TableDrivenLibrary\\JenisPelanggaranLibrary.cs",
+              "ToolTip": "D:\\C#\\Library\\Library\\TableDrivenLibrary\\JenisPelanggaranLibrary.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T05:39:46.724Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "LevelPelanggaranLibrary.cs",
+              "DocumentMoniker": "D:\\C#\\Library\\Library\\TableDrivenLibrary\\LevelPelanggaranLibrary.cs",
+              "ToolTip": "D:\\C#\\Library\\Library\\TableDrivenLibrary\\LevelPelanggaranLibrary.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T05:40:04.937Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "FormatterLibrary.cs",
+              "DocumentMoniker": "D:\\C#\\Library\\Library\\UtilsLibrary\\FormatterLibrary.cs",
+              "ToolTip": "D:\\C#\\Library\\Library\\UtilsLibrary\\FormatterLibrary.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T05:41:48.615Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Library",
+              "DocumentMoniker": "C:\\Users\\asus8\\Tubes_KPL_Tahap1\\Library\\Library\\Library.csproj",
+              "RelativeDocumentMoniker": "..\\..\\Library\\Library\\Library.csproj",
+              "ToolTip": "C:\\Users\\asus8\\Tubes_KPL_Tahap1\\Library\\Library\\Library.csproj",
+              "RelativeToolTip": "..\\..\\Library\\Library\\Library.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-05-14T05:18:05.608Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SanksiLibrary.cs",
+              "DocumentMoniker": "D:\\C#\\Library\\Library\\ModelLibrary\\SanksiLibrary.cs",
+              "ToolTip": "D:\\C#\\Library\\Library\\ModelLibrary\\SanksiLibrary.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T05:38:33.699Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RolePenggunaLibrary.cs",
+              "DocumentMoniker": "D:\\C#\\Library\\Library\\ModelLibrary\\RolePenggunaLibrary.cs",
+              "ToolTip": "D:\\C#\\Library\\Library\\ModelLibrary\\RolePenggunaLibrary.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T05:38:34.268Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PenggunaLibrary.cs",
+              "DocumentMoniker": "D:\\C#\\Library\\Library\\ModelLibrary\\PenggunaLibrary.cs",
+              "ToolTip": "D:\\C#\\Library\\Library\\ModelLibrary\\PenggunaLibrary.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T05:38:35.001Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "PelanggaranStateMachineLibrary.cs",
+              "DocumentMoniker": "D:\\C#\\Library\\Library\\AutomataLibrary\\PelanggaranStateMachineLibrary.cs",
+              "ToolTip": "D:\\C#\\Library\\Library\\AutomataLibrary\\PelanggaranStateMachineLibrary.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAADwv0cAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T05:35:28.604Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "FormBuilderLibrary.cs",
+              "DocumentMoniker": "D:\\C#\\Library\\Library\\ComponentsLibrary\\FormBuilderLibrary.cs",
+              "ToolTip": "D:\\C#\\Library\\Library\\ComponentsLibrary\\FormBuilderLibrary.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T05:15:22.665Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{131369f2-062d-44a2-8671-91ff31efb4f4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FormatterLibraryTest.cs",
+              "DocumentMoniker": "C:\\Users\\asus8\\Tubes_KPL_Tahap1\\Tubes_Console.Tests\\TestLibrary\\TestLibrary\\FormatterLibraryTest.cs",
+              "RelativeDocumentMoniker": "TestLibrary\\FormatterLibraryTest.cs",
+              "ToolTip": "C:\\Users\\asus8\\Tubes_KPL_Tahap1\\Tubes_Console.Tests\\TestLibrary\\TestLibrary\\FormatterLibraryTest.cs",
+              "RelativeToolTip": "TestLibrary\\FormatterLibraryTest.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAiwBMAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T05:42:23.744Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "JenisPelanggaranLibraryTest.cs",
+              "DocumentMoniker": "C:\\Users\\asus8\\Tubes_KPL_Tahap1\\Tubes_Console.Tests\\TestLibrary\\TestLibrary\\JenisPelanggaranLibraryTest.cs",
+              "RelativeDocumentMoniker": "TestLibrary\\JenisPelanggaranLibraryTest.cs",
+              "ToolTip": "C:\\Users\\asus8\\Tubes_KPL_Tahap1\\Tubes_Console.Tests\\TestLibrary\\TestLibrary\\JenisPelanggaranLibraryTest.cs",
+              "RelativeToolTip": "TestLibrary\\JenisPelanggaranLibraryTest.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAowDcAAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T05:40:22.551Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "SiswaLibraryTest.cs",
+              "DocumentMoniker": "C:\\Users\\asus8\\Tubes_KPL_Tahap1\\Tubes_Console.Tests\\TestLibrary\\TestLibrary\\SiswaLibraryTest.cs",
+              "RelativeDocumentMoniker": "TestLibrary\\SiswaLibraryTest.cs",
+              "ToolTip": "C:\\Users\\asus8\\Tubes_KPL_Tahap1\\Tubes_Console.Tests\\TestLibrary\\TestLibrary\\SiswaLibraryTest.cs",
+              "RelativeToolTip": "TestLibrary\\SiswaLibraryTest.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAIA1wDwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T05:39:04.239Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PelanggaranStateMachineLibraryTest.cs",
+              "DocumentMoniker": "C:\\Users\\asus8\\Tubes_KPL_Tahap1\\Tubes_Console.Tests\\TestLibrary\\TestLibrary\\PelanggaranStateMachineLibraryTest.cs",
+              "RelativeDocumentMoniker": "TestLibrary\\PelanggaranStateMachineLibraryTest.cs",
+              "ToolTip": "C:\\Users\\asus8\\Tubes_KPL_Tahap1\\Tubes_Console.Tests\\TestLibrary\\TestLibrary\\PelanggaranStateMachineLibraryTest.cs",
+              "RelativeToolTip": "TestLibrary\\PelanggaranStateMachineLibraryTest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T03:14:51.816Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FormBuilderLibraryTest.cs",
+              "DocumentMoniker": "C:\\Users\\asus8\\Tubes_KPL_Tahap1\\Tubes_Console.Tests\\TestLibrary\\TestLibrary\\FormBuilderLibraryTest.cs",
+              "RelativeDocumentMoniker": "TestLibrary\\FormBuilderLibraryTest.cs",
+              "ToolTip": "C:\\Users\\asus8\\Tubes_KPL_Tahap1\\Tubes_Console.Tests\\TestLibrary\\TestLibrary\\FormBuilderLibraryTest.cs",
+              "RelativeToolTip": "TestLibrary\\FormBuilderLibraryTest.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAUwEoAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T03:28:20.436Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AppConfigLibraryTest.cs",
+              "DocumentMoniker": "C:\\Users\\asus8\\Tubes_KPL_Tahap1\\Tubes_Console.Tests\\TestLibrary\\TestLibrary\\AppConfigLibraryTest.cs",
+              "RelativeDocumentMoniker": "TestLibrary\\AppConfigLibraryTest.cs",
+              "ToolTip": "C:\\Users\\asus8\\Tubes_KPL_Tahap1\\Tubes_Console.Tests\\TestLibrary\\TestLibrary\\AppConfigLibraryTest.cs",
+              "RelativeToolTip": "TestLibrary\\AppConfigLibraryTest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T05:37:52.659Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "PelanggaranServiceLibraryTest.cs",
+              "DocumentMoniker": "C:\\Users\\asus8\\Tubes_KPL_Tahap1\\Tubes_Console.Tests\\TestLibrary\\TestLibrary\\PelanggaranServiceLibraryTest.cs",
+              "RelativeDocumentMoniker": "TestLibrary\\PelanggaranServiceLibraryTest.cs",
+              "ToolTip": "C:\\Users\\asus8\\Tubes_KPL_Tahap1\\Tubes_Console.Tests\\TestLibrary\\TestLibrary\\PelanggaranServiceLibraryTest.cs",
+              "RelativeToolTip": "TestLibrary\\PelanggaranServiceLibraryTest.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwAcAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T03:22:49.134Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "packages.config",
+              "DocumentMoniker": "C:\\Users\\asus8\\Tubes_KPL_Tahap1\\Tubes_Console.Tests\\TestLibrary\\TestLibrary\\packages.config",
+              "RelativeDocumentMoniker": "TestLibrary\\packages.config",
+              "ToolTip": "C:\\Users\\asus8\\Tubes_KPL_Tahap1\\Tubes_Console.Tests\\TestLibrary\\TestLibrary\\packages.config",
+              "RelativeToolTip": "TestLibrary\\packages.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-05-14T03:21:18.726Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\asus8\\Tubes_KPL_Tahap1\\Tubes_Console.Tests\\TestLibrary\\TestLibrary\\Properties\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "TestLibrary\\Properties\\AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\asus8\\Tubes_KPL_Tahap1\\Tubes_Console.Tests\\TestLibrary\\TestLibrary\\Properties\\AssemblyInfo.cs",
+              "RelativeToolTip": "TestLibrary\\Properties\\AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T03:20:58.534Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "app.config",
+              "DocumentMoniker": "C:\\Users\\asus8\\Tubes_KPL_Tahap1\\Tubes_Console.Tests\\TestLibrary\\TestLibrary\\app.config",
+              "RelativeDocumentMoniker": "TestLibrary\\app.config",
+              "ToolTip": "C:\\Users\\asus8\\Tubes_KPL_Tahap1\\Tubes_Console.Tests\\TestLibrary\\TestLibrary\\app.config",
+              "RelativeToolTip": "TestLibrary\\app.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-05-14T03:21:12.36Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\asus8\\Tubes_KPL_Tahap1\\Tubes_Console.Tests\\TestLibrary\\TestLibrary\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "TestLibrary\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\asus8\\Tubes_KPL_Tahap1\\Tubes_Console.Tests\\TestLibrary\\TestLibrary\\UnitTest1.cs",
+              "RelativeToolTip": "TestLibrary\\UnitTest1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T02:59:30.099Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
