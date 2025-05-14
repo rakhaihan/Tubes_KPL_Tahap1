@@ -14,7 +14,11 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Tubes_Console")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bcea3a74951e098266978dbb4879b627ad88acd2")]
+<<<<<<< HEAD
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1c640fc4683a51e95e497d8c93c35d1c1661ffe9")]
+=======
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c761640667fbb342784a1dce1298ff395b384e74")]
+>>>>>>> origin/jack
 [assembly: System.Reflection.AssemblyProductAttribute("Tubes_Console")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Tubes_Console")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
