@@ -7,7 +7,7 @@ using Tubes_Console.Model;
 
 namespace Tubes_Console.Automata
 {
-    internal class PelanggaranStateMachine
+    public class PelanggaranStateMachine
     {
         struct Transisi
         {

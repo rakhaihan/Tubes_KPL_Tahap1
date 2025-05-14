@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Tugas atau dokumen Kuliah\\Semester 4\\Konstruksi Perangkat Lunak\\Tubes KPL\\Tubes_KPL_Tahap1\\Tubes_API\\Tubes_API.csproj": {}
+    "D:\\Education\\University\\telkom\\mulai kuliah\\SMT 4\\Konstruksi Perangkat Lunak\\A1 TUbes\\fix\\Tubes_KPL_Tahap1\\Tubes_API\\Tubes_API.csproj": {}
   },
   "projects": {
-    "D:\\Tugas atau dokumen Kuliah\\Semester 4\\Konstruksi Perangkat Lunak\\Tubes KPL\\Tubes_KPL_Tahap1\\Tubes_API\\Tubes_API.csproj": {
+    "D:\\Education\\University\\telkom\\mulai kuliah\\SMT 4\\Konstruksi Perangkat Lunak\\A1 TUbes\\fix\\Tubes_KPL_Tahap1\\Tubes_API\\Tubes_API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Tugas atau dokumen Kuliah\\Semester 4\\Konstruksi Perangkat Lunak\\Tubes KPL\\Tubes_KPL_Tahap1\\Tubes_API\\Tubes_API.csproj",
+        "projectUniqueName": "D:\\Education\\University\\telkom\\mulai kuliah\\SMT 4\\Konstruksi Perangkat Lunak\\A1 TUbes\\fix\\Tubes_KPL_Tahap1\\Tubes_API\\Tubes_API.csproj",
         "projectName": "Tubes_API",
-        "projectPath": "D:\\Tugas atau dokumen Kuliah\\Semester 4\\Konstruksi Perangkat Lunak\\Tubes KPL\\Tubes_KPL_Tahap1\\Tubes_API\\Tubes_API.csproj",
+        "projectPath": "D:\\Education\\University\\telkom\\mulai kuliah\\SMT 4\\Konstruksi Perangkat Lunak\\A1 TUbes\\fix\\Tubes_KPL_Tahap1\\Tubes_API\\Tubes_API.csproj",
         "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-        "outputPath": "D:\\Tugas atau dokumen Kuliah\\Semester 4\\Konstruksi Perangkat Lunak\\Tubes KPL\\Tubes_KPL_Tahap1\\Tubes_API\\obj\\",
+        "outputPath": "D:\\Education\\University\\telkom\\mulai kuliah\\SMT 4\\Konstruksi Perangkat Lunak\\A1 TUbes\\fix\\Tubes_KPL_Tahap1\\Tubes_API\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -44,7 +44,7 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.200"
+        "SdkAnalysisLevel": "9.0.300"
       },
       "frameworks": {
         "net8.0": {
@@ -74,7 +74,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.300-preview.0.25177.5/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
