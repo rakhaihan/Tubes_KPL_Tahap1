@@ -1,14 +1,15 @@
 {
   "version": 2,
-<<<<<<< HEAD
-  "dgSpecHash": "x35Y5jrtZGw=",
+  "dgSpecHash": "EyFX6msYw7M=",
   "success": true,
-  "projectFilePath": "F:\\KPL\\baru lagi karna sln kahapus\\Tubes_KPL_Tahap1\\Tubes_Console\\Tubes_Console.csproj",
-=======
-  "dgSpecHash": "0amKBgdoJc4=",
-  "success": true,
-  "projectFilePath": "D:\\jack_praktikann\\Tubes_KPL_Tahap1\\Tubes_Console\\Tubes_Console.csproj",
->>>>>>> origin/jack
+  "projectFilePath": "F:\\KPL\\unit test\\Tubes_KPL_Tahap1\\Tubes_Console\\Tubes_Console.csproj",
   "expectedPackageFiles": [],
-  "logs": []
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problem reading the cache file F:\\KPL\\unit test\\Tubes_KPL_Tahap1\\Tubes_Console\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
 }
