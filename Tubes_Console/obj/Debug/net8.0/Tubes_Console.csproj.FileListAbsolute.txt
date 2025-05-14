@@ -1,0 +1,15 @@
+D:\Education\University\telkom\mulai kuliah\SMT 4\Konstruksi Perangkat Lunak\A1 TUbes\fix\Tubes_KPL_Tahap1\Tubes_Console\obj\Debug\net8.0\Tubes_Console.GeneratedMSBuildEditorConfig.editorconfig
+D:\Education\University\telkom\mulai kuliah\SMT 4\Konstruksi Perangkat Lunak\A1 TUbes\fix\Tubes_KPL_Tahap1\Tubes_Console\obj\Debug\net8.0\Tubes_Console.AssemblyInfoInputs.cache
+D:\Education\University\telkom\mulai kuliah\SMT 4\Konstruksi Perangkat Lunak\A1 TUbes\fix\Tubes_KPL_Tahap1\Tubes_Console\obj\Debug\net8.0\Tubes_Console.AssemblyInfo.cs
+D:\Education\University\telkom\mulai kuliah\SMT 4\Konstruksi Perangkat Lunak\A1 TUbes\fix\Tubes_KPL_Tahap1\Tubes_Console\obj\Debug\net8.0\Tubes_Console.csproj.CoreCompileInputs.cache
+D:\Education\University\telkom\mulai kuliah\SMT 4\Konstruksi Perangkat Lunak\A1 TUbes\fix\Tubes_KPL_Tahap1\Tubes_Console\obj\Debug\net8.0\Tubes_Console.sourcelink.json
+D:\Education\University\telkom\mulai kuliah\SMT 4\Konstruksi Perangkat Lunak\A1 TUbes\fix\Tubes_KPL_Tahap1\Tubes_Console\bin\Debug\net8.0\Tubes_Console.exe
+D:\Education\University\telkom\mulai kuliah\SMT 4\Konstruksi Perangkat Lunak\A1 TUbes\fix\Tubes_KPL_Tahap1\Tubes_Console\bin\Debug\net8.0\Tubes_Console.deps.json
+D:\Education\University\telkom\mulai kuliah\SMT 4\Konstruksi Perangkat Lunak\A1 TUbes\fix\Tubes_KPL_Tahap1\Tubes_Console\bin\Debug\net8.0\Tubes_Console.runtimeconfig.json
+D:\Education\University\telkom\mulai kuliah\SMT 4\Konstruksi Perangkat Lunak\A1 TUbes\fix\Tubes_KPL_Tahap1\Tubes_Console\bin\Debug\net8.0\Tubes_Console.dll
+D:\Education\University\telkom\mulai kuliah\SMT 4\Konstruksi Perangkat Lunak\A1 TUbes\fix\Tubes_KPL_Tahap1\Tubes_Console\bin\Debug\net8.0\Tubes_Console.pdb
+D:\Education\University\telkom\mulai kuliah\SMT 4\Konstruksi Perangkat Lunak\A1 TUbes\fix\Tubes_KPL_Tahap1\Tubes_Console\obj\Debug\net8.0\Tubes_Console.dll
+D:\Education\University\telkom\mulai kuliah\SMT 4\Konstruksi Perangkat Lunak\A1 TUbes\fix\Tubes_KPL_Tahap1\Tubes_Console\obj\Debug\net8.0\refint\Tubes_Console.dll
+D:\Education\University\telkom\mulai kuliah\SMT 4\Konstruksi Perangkat Lunak\A1 TUbes\fix\Tubes_KPL_Tahap1\Tubes_Console\obj\Debug\net8.0\Tubes_Console.pdb
+D:\Education\University\telkom\mulai kuliah\SMT 4\Konstruksi Perangkat Lunak\A1 TUbes\fix\Tubes_KPL_Tahap1\Tubes_Console\obj\Debug\net8.0\Tubes_Console.genruntimeconfig.cache
+D:\Education\University\telkom\mulai kuliah\SMT 4\Konstruksi Perangkat Lunak\A1 TUbes\fix\Tubes_KPL_Tahap1\Tubes_Console\obj\Debug\net8.0\ref\Tubes_Console.dll

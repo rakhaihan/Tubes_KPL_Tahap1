@@ -1,15 +1,19 @@
+using Microsoft.AspNetCore.Builder;
+using Microsoft.Extensions.DependencyInjection;
+using Microsoft.Extensions.Hosting;
+
 var builder = WebApplication.CreateBuilder(args);
 
-// Add services to the container.
-
+// Tambahkan services untuk controller
 builder.Services.AddControllers();
-// Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
+
+// Tambahkan Swagger untuk dokumentasi API
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
 var app = builder.Build();
 
-// Configure the HTTP request pipeline.
+// Aktifkan Swagger di development mode
 if (app.Environment.IsDevelopment())
 {
     app.UseSwagger();
@@ -17,7 +21,5 @@ if (app.Environment.IsDevelopment())
 }
 
 app.UseAuthorization();
-
-app.MapControllers();
-
+app.MapControllers(); // Ini penting agar controller bisa berjalan
 app.Run();
