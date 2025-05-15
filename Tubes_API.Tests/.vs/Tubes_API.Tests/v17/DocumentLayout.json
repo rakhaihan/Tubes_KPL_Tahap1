@@ -1,0 +1,125 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Tugas atau dokumen Kuliah\\Semester 4\\Konstruksi Perangkat Lunak\\Tubes KPL\\Tubes_KPL_Tahap1\\Tubes_API.Tests\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{62ACF044-43B7-42D8-B7BD-1D457F12B60A}|Tubes_API.Tests\\Tubes_API.Tests.csproj|d:\\tugas atau dokumen kuliah\\semester 4\\konstruksi perangkat lunak\\tubes kpl\\tubes_kpl_tahap1\\tubes_api.tests\\tubes_api.tests\\siswaservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62ACF044-43B7-42D8-B7BD-1D457F12B60A}|Tubes_API.Tests\\Tubes_API.Tests.csproj|solutionrelative:tubes_api.tests\\siswaservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62ACF044-43B7-42D8-B7BD-1D457F12B60A}|Tubes_API.Tests\\Tubes_API.Tests.csproj|d:\\tugas atau dokumen kuliah\\semester 4\\konstruksi perangkat lunak\\tubes kpl\\tubes_kpl_tahap1\\tubes_api.tests\\tubes_api.tests\\poinpelanggaranservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62ACF044-43B7-42D8-B7BD-1D457F12B60A}|Tubes_API.Tests\\Tubes_API.Tests.csproj|solutionrelative:tubes_api.tests\\poinpelanggaranservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62ACF044-43B7-42D8-B7BD-1D457F12B60A}|Tubes_API.Tests\\Tubes_API.Tests.csproj|d:\\tugas atau dokumen kuliah\\semester 4\\konstruksi perangkat lunak\\tubes kpl\\tubes_kpl_tahap1\\tubes_api.tests\\tubes_api.tests\\test1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62ACF044-43B7-42D8-B7BD-1D457F12B60A}|Tubes_API.Tests\\Tubes_API.Tests.csproj|solutionrelative:tubes_api.tests\\test1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62ACF044-43B7-42D8-B7BD-1D457F12B60A}|Tubes_API.Tests\\Tubes_API.Tests.csproj|d:\\tugas atau dokumen kuliah\\semester 4\\konstruksi perangkat lunak\\tubes kpl\\tubes_kpl_tahap1\\tubes_api.tests\\tubes_api.tests\\mstestsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62ACF044-43B7-42D8-B7BD-1D457F12B60A}|Tubes_API.Tests\\Tubes_API.Tests.csproj|solutionrelative:tubes_api.tests\\mstestsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA03D7B6-F2C4-AB61-76A0-DB97E1710511}|..\\Tubes_API\\Tubes_API.csproj|d:\\tugas atau dokumen kuliah\\semester 4\\konstruksi perangkat lunak\\tubes kpl\\tubes_kpl_tahap1\\tubes_api\\services\\poinpelanggaranservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62ACF044-43B7-42D8-B7BD-1D457F12B60A}|Tubes_API.Tests\\Tubes_API.Tests.csproj|d:\\tugas atau dokumen kuliah\\semester 4\\konstruksi perangkat lunak\\tubes kpl\\tubes_kpl_tahap1\\tubes_api.tests\\tubes_api.tests\\tubes_api.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{62ACF044-43B7-42D8-B7BD-1D457F12B60A}|Tubes_API.Tests\\Tubes_API.Tests.csproj|solutionrelative:tubes_api.tests\\tubes_api.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Test1.cs",
+              "DocumentMoniker": "D:\\Tugas atau dokumen Kuliah\\Semester 4\\Konstruksi Perangkat Lunak\\Tubes KPL\\Tubes_KPL_Tahap1\\Tubes_API.Tests\\Tubes_API.Tests\\Test1.cs",
+              "RelativeDocumentMoniker": "Tubes_API.Tests\\Test1.cs",
+              "ToolTip": "D:\\Tugas atau dokumen Kuliah\\Semester 4\\Konstruksi Perangkat Lunak\\Tubes KPL\\Tubes_KPL_Tahap1\\Tubes_API.Tests\\Tubes_API.Tests\\Test1.cs",
+              "RelativeToolTip": "Tubes_API.Tests\\Test1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T08:57:05.979Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PoinPelanggaranService.cs",
+              "DocumentMoniker": "D:\\Tugas atau dokumen Kuliah\\Semester 4\\Konstruksi Perangkat Lunak\\Tubes KPL\\Tubes_KPL_Tahap1\\Tubes_API\\Services\\PoinPelanggaranService.cs",
+              "RelativeDocumentMoniker": "..\\Tubes_API\\Services\\PoinPelanggaranService.cs",
+              "ToolTip": "D:\\Tugas atau dokumen Kuliah\\Semester 4\\Konstruksi Perangkat Lunak\\Tubes KPL\\Tubes_KPL_Tahap1\\Tubes_API\\Services\\PoinPelanggaranService.cs",
+              "RelativeToolTip": "..\\Tubes_API\\Services\\PoinPelanggaranService.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAqwDMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T08:48:00.351Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SiswaServiceTests.cs",
+              "DocumentMoniker": "D:\\Tugas atau dokumen Kuliah\\Semester 4\\Konstruksi Perangkat Lunak\\Tubes KPL\\Tubes_KPL_Tahap1\\Tubes_API.Tests\\Tubes_API.Tests\\SiswaServiceTests.cs",
+              "RelativeDocumentMoniker": "Tubes_API.Tests\\SiswaServiceTests.cs",
+              "ToolTip": "D:\\Tugas atau dokumen Kuliah\\Semester 4\\Konstruksi Perangkat Lunak\\Tubes KPL\\Tubes_KPL_Tahap1\\Tubes_API.Tests\\Tubes_API.Tests\\SiswaServiceTests.cs",
+              "RelativeToolTip": "Tubes_API.Tests\\SiswaServiceTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T08:36:04.125Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PoinPelanggaranServiceTests.cs",
+              "DocumentMoniker": "D:\\Tugas atau dokumen Kuliah\\Semester 4\\Konstruksi Perangkat Lunak\\Tubes KPL\\Tubes_KPL_Tahap1\\Tubes_API.Tests\\Tubes_API.Tests\\PoinPelanggaranServiceTests.cs",
+              "RelativeDocumentMoniker": "Tubes_API.Tests\\PoinPelanggaranServiceTests.cs",
+              "ToolTip": "D:\\Tugas atau dokumen Kuliah\\Semester 4\\Konstruksi Perangkat Lunak\\Tubes KPL\\Tubes_KPL_Tahap1\\Tubes_API.Tests\\Tubes_API.Tests\\PoinPelanggaranServiceTests.cs",
+              "RelativeToolTip": "Tubes_API.Tests\\PoinPelanggaranServiceTests.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAYwDQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T08:35:19.808Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Tubes_API.Tests",
+              "DocumentMoniker": "D:\\Tugas atau dokumen Kuliah\\Semester 4\\Konstruksi Perangkat Lunak\\Tubes KPL\\Tubes_KPL_Tahap1\\Tubes_API.Tests\\Tubes_API.Tests\\Tubes_API.Tests.csproj",
+              "RelativeDocumentMoniker": "Tubes_API.Tests\\Tubes_API.Tests.csproj",
+              "ToolTip": "D:\\Tugas atau dokumen Kuliah\\Semester 4\\Konstruksi Perangkat Lunak\\Tubes KPL\\Tubes_KPL_Tahap1\\Tubes_API.Tests\\Tubes_API.Tests\\Tubes_API.Tests.csproj",
+              "RelativeToolTip": "Tubes_API.Tests\\Tubes_API.Tests.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-15T08:34:34.623Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MSTestSettings.cs",
+              "DocumentMoniker": "D:\\Tugas atau dokumen Kuliah\\Semester 4\\Konstruksi Perangkat Lunak\\Tubes KPL\\Tubes_KPL_Tahap1\\Tubes_API.Tests\\Tubes_API.Tests\\MSTestSettings.cs",
+              "RelativeDocumentMoniker": "Tubes_API.Tests\\MSTestSettings.cs",
+              "ToolTip": "D:\\Tugas atau dokumen Kuliah\\Semester 4\\Konstruksi Perangkat Lunak\\Tubes KPL\\Tubes_KPL_Tahap1\\Tubes_API.Tests\\Tubes_API.Tests\\MSTestSettings.cs",
+              "RelativeToolTip": "Tubes_API.Tests\\MSTestSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T08:33:54.068Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -34,3 +34,4 @@ D:\Tugas atau dokumen Kuliah\Semester 4\Konstruksi Perangkat Lunak\Tubes KPL\Tub
 D:\Tugas atau dokumen Kuliah\Semester 4\Konstruksi Perangkat Lunak\Tubes KPL\Tubes_KPL_Tahap1\Tubes_API\obj\Debug\net8.0\Tubes_API.pdb
 D:\Tugas atau dokumen Kuliah\Semester 4\Konstruksi Perangkat Lunak\Tubes KPL\Tubes_KPL_Tahap1\Tubes_API\obj\Debug\net8.0\Tubes_API.genruntimeconfig.cache
 D:\Tugas atau dokumen Kuliah\Semester 4\Konstruksi Perangkat Lunak\Tubes KPL\Tubes_KPL_Tahap1\Tubes_API\obj\Debug\net8.0\ref\Tubes_API.dll
+D:\Tugas atau dokumen Kuliah\Semester 4\Konstruksi Perangkat Lunak\Tubes KPL\Tubes_KPL_Tahap1\Tubes_API\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt

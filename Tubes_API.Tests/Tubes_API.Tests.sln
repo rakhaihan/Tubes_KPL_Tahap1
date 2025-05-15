@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35818.85 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tubes_API.Tests", "Tubes_API.Tests\Tubes_API.Tests.csproj", "{62ACF044-43B7-42D8-B7BD-1D457F12B60A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tubes_API", "..\Tubes_API\Tubes_API.csproj", "{CA03D7B6-F2C4-AB61-76A0-DB97E1710511}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{62ACF044-43B7-42D8-B7BD-1D457F12B60A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62ACF044-43B7-42D8-B7BD-1D457F12B60A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62ACF044-43B7-42D8-B7BD-1D457F12B60A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62ACF044-43B7-42D8-B7BD-1D457F12B60A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CA03D7B6-F2C4-AB61-76A0-DB97E1710511}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA03D7B6-F2C4-AB61-76A0-DB97E1710511}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA03D7B6-F2C4-AB61-76A0-DB97E1710511}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA03D7B6-F2C4-AB61-76A0-DB97E1710511}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {080AA6D5-7D78-402F-839A-14A5ADB15B01}
+	EndGlobalSection
+EndGlobal
